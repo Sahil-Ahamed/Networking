@@ -1,0 +1,7 @@
+Need to configure every router of the setup.
+
+1. enable
+2. configure t
+3. int "write the same network's interface's name ex- 'f0/0' "
+4. ip helper-address "IP of DHCP server"
+5. exit
